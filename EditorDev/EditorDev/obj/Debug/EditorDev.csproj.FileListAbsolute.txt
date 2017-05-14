@@ -1,0 +1,66 @@
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\csc.exe
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\System.Collections.Immutable.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\vbc.exe
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\VBCSCompiler.exe
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\roslyn\VBCSCompiler.exe.config
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\EditorDev.dll.config
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\EditorDev.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\EditorDev.pdb
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.Web.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.WindowsServer.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.ApplicationInsights.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.Web.xml
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.AI.WindowsServer.xml
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.ApplicationInsights.xml
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\obj\Debug\EditorDev.csprojResolveAssemblyReference.cache
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\obj\Debug\EditorDev.dll
+c:\users\redpeaksdev\documents\visual studio 2015\Projects\EditorDev\EditorDev\obj\Debug\EditorDev.pdb
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\csc.exe
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\vbc.exe
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\VBCSCompiler.exe
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\EditorDev.dll.config
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\EditorDev.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\EditorDev.pdb
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.Web.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Newtonsoft.Json.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.Web.xml
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\bin\Newtonsoft.Json.xml
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\obj\Debug\EditorDev.dll
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\obj\Debug\EditorDev.pdb
+C:\Users\RedpeaksDev\Desktop\AngularEditor\EditorDev\EditorDev\obj\Debug\EditorDev.csprojResolveAssemblyReference.cache

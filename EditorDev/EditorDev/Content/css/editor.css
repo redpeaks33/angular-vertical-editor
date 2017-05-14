@@ -1,0 +1,46 @@
+﻿body {
+  -webkit-writing-mode: vertical-rl;
+  -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+}
+
+
+.editor{
+    background-color:red;
+}
+.meditorContainer{
+    font-size:15px;
+    background-color:khaki;
+    font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+    transform: rotate(0.0001deg);
+    -webkit-writing-mode: vertical-rl;
+    -moz-writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
+}
+
+.angular-meditor-content{
+    font-size:15px;
+    background-color:ActiveCaption;
+    font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+    transform: rotate(0.0001deg);
+    -webkit-writing-mode: vertical-rl !important;
+    -moz-writing-mode: vertical-rl !important;
+    writing-mode: vertical-rl !important;
+}
+.modelContainer{
+    font-size:15px;
+    background-color:pink;
+    font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+    transform: rotate(0.0001deg);
+    -webkit-writing-mode: vertical-rl !important;
+    -moz-writing-mode: vertical-rl !important;
+    writing-mode: vertical-rl !important;
+
+background-image: linear-gradient(to bottom, #000, #000 1px, transparent 1px, transparent 4px);
+background-size: 100% 10px;
+background-position: center;
+background-repeat: repeat-y;
+}
+.angular-meditor-content{
+    background-color:red;
+}
